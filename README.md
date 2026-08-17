@@ -40,17 +40,6 @@ You are required to optimise the matrix multiplication code using the following 
 	Analyse and justify which combination performs best.
 	In-depth performance analysis will result in scoring full marks.
 
-## Report
-
-Prepare a detailed report titled: `mat_mul_analysis.pdf`
-
-The report should include:
-- Execution time comparison across all versions.
-- Graphs/plots showing speedup and scalability.
-- Final insights and conclusion about the best-performing version.
-
-## Submission Checklist
-
 - Optimised code for 1A, 1B, 1C, and 1D
 - `mat_mul_analysis.pdf` with complete analysis
 - Graphs and plots embedded in the report
