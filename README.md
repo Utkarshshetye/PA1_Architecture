@@ -40,6 +40,11 @@ You are required to optimise the matrix multiplication code using the following 
 	Analyse and justify which combination performs best.
 	In-depth performance analysis will result in scoring full marks.
 
+Team Mates:
+Utkarsh Shetye (24m2122)
+Manish Saini (24m2112)
+Mohiboddin (23m0827)
+
 - Optimised code for 1A, 1B, 1C, and 1D
 - `mat_mul_analysis.pdf` with complete analysis
 - Graphs and plots embedded in the report
